@@ -4,7 +4,7 @@
 
 Hi there! I'm a tech enthusiast with a deep love for Linux servers and the intricacies of running services on them. My journey in technology began with web development, where I honed my skills in WordPress and freelanced as a web developer. Along the way, I mastered HTML, CSS, and the basics of JavaScript, but my true passion lies in Python.
 
- [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://angelinatsuboi.com)
+ [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://qani.ca)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
