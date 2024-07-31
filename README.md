@@ -11,7 +11,12 @@ Hi there! I'm a tech enthusiast with a deep love for Linux servers and the intri
  [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:)
 
  ## <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,flask,py,wordpress,sqlite,git,github,bash,linux,kali)](https://skillicons.dev)
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 
 <details>
 <summary><b><u>Skills and Technologies</u></b></summary>
