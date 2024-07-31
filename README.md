@@ -10,8 +10,8 @@ Hi there! I'm a tech enthusiast with a deep love for Linux servers and the intri
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
  [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:)
 
- 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,flask,py,wordpress,sqlite,git,github,bash,linux)](https://skillicons.dev)
+ ## <span style="color: blue !important;">&gt;</span> Skillset
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,flask,py,wordpress,sqlite,git,github,bash,linux,kali)](https://skillicons.dev)
 
 <details>
 <summary><b><u>Skills and Technologies</u></b></summary>
