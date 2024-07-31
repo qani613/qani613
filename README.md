@@ -14,9 +14,10 @@ Hi there! I'm a tech enthusiast with a deep love for Linux servers and the intri
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="(https://skillicons.dev/icons?i=js,html,css,vue,flask,py,wordpress,sqlite,git,github,bash,linux,kali" />
+    <img src="(https://skillicons.dev/icons?i=js,html,css,vue,flask,py,wordpress,sqlite,git,github,bash,linux,kali)](https://skillicons.dev)" />
   </a>
 </p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,flask,py,wordpress,sqlite,git,github,bash,linux,kali)](https://skillicons.dev)
 
 <details>
 <summary><b><u>Skills and Technologies</u></b></summary>
