@@ -13,7 +13,7 @@ Hi there! I'm a tech enthusiast with a deep love for Linux servers and the intri
  ## <span style="color: blue !important;">&gt;</span> Skillset
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vue,flask,py,wordpress,sqlite,git,github,bash,linux,kali" />
+    <img src="https://skillicons.dev/icons?i=js,Astrohtml,css,vue,flask,py,wordpress,sqlite,git,github,bash,linux,kali" />
   </a>
 </p>
 
